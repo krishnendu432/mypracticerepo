@@ -1,0 +1,1 @@
+This is the process to check how to perform stash operation. This is the 1st file when we are applying stash method.
