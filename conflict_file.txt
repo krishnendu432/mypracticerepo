@@ -1,1 +1,3 @@
 This file has been created to check the how a conflict has been occur in git.
+Conflict will happend if both the branch having the same name files including the different content.
+
