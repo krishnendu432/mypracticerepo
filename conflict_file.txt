@@ -1,0 +1,1 @@
+Conflict will happend if both the branch having same name file including the different content.
