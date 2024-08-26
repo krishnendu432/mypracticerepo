@@ -1,0 +1,1 @@
+This is a operation to check how to implement stash method ? 
