@@ -1,1 +1,4 @@
 This is the process to check how to perform stash operation. This is the 1st file when we are applying stash method.
+# We will check the git branch policy
+This statement we have added to cross check the git hub branch strategy.
+
