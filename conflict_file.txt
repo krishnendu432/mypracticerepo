@@ -1,6 +1,5 @@
 This file has been created to check the how a conflict has been occur in git.
 Conflict will happend if both the branch having the same name files including the different content.
 We will check this with in two different branches "master" and "feature"
-# This is from Master branch.
-
+# This is from 'feature1' branch.
 
