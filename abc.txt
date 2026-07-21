@@ -1,1 +1,2 @@
 This is text file to check how to clone the file. To download the clone file you have to download the complete repository file.
+This statement of this file has been created to crosscheck the "git fatch" command.
