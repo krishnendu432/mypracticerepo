@@ -1,1 +1,4 @@
-This is a operation to check how to implement stash method ? 
+This is a operation to check how to implement stash method ?
+We will check the 'git stash' operation from 'feature1' branch. 
+It will consider to save the uncommit content in temporary basic if your need to be swith or change the branch. 
+Here we will change the branch from 'feature1' to 'main'.
